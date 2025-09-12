@@ -1,5 +1,13 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 This file name is SUma YN..==========
 
 Data file
 
 Now pulling the data to local.
+=======
+This file name is SUma YN..==========
+>>>>>>> parent of 59cadf0 (modified filewq!)
+=======
+This file name is SUma YN..==========
+>>>>>>> parent of 59cadf0 (modified filewq!)
